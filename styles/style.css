@@ -1,0 +1,53 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@400;500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.intro-box {
+    display: flex;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 8%;
+    border-radius: 15px;
+}
+
+.intro-title {
+    margin-left: 3%;
+    margin-top: 3%;
+
+}
+
+.intro-title h1 {
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.intro-title p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.intro-title input {
+    width: 187px;
+    height: 56px;
+    left: 246px;
+    top: 529px;
+    background: #DD0000;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.intro-photo {
+    height: 60%;
+    width: 70%;
+}
